@@ -1,0 +1,10 @@
+                       precision    recall  f1-score   support
+
+        comp.graphics       0.90      0.93      0.91       190
+     rec.sport.hockey       0.94      0.94      0.94       195
+            sci.space       0.90      0.84      0.87       191
+talk.politics.mideast       0.91      0.94      0.92       183
+
+             accuracy                           0.91       759
+            macro avg       0.91      0.91      0.91       759
+         weighted avg       0.91      0.91      0.91       759
